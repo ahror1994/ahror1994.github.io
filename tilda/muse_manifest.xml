@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tilda.ru" resolutions="1x" timestamp="1551896266458">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tilda.ru" resolutions="1x" timestamp="1551898971211">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4271105258" ref="index"/>
-    <file name="nomq_index.css" crc="4189242556" ref="index"/>
+    <file name="index.css" crc="3940001357" ref="index"/>
+    <file name="nomq_index.css" crc="421625190" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -74,52 +74,22 @@
     <file name="pexels-photo-1427513-crop-u5282.jpg" crc="3782050425" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="adventure-altitude-clear-sky-633198258x172.jpg" crc="351533616" seo="true" ref="index">
+    <file name="atmosphere-bird-s-eye-view-cloudiness-1815398-crop-u3883.jpg" crc="11789380" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ash-boom-calamity-735647258x172.jpg" crc="3944892201" seo="true" ref="index">
+    <file name="body-of-water-depth-of-field-ocean-1820041-crop-u4083.jpg" crc="3868660071" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="atmosphere-bird-s-eye-view-cloudiness-1815398-crop-u3883.jpg" crc="4274001566" seo="true" ref="index">
+    <file name="clouds-coast-daylight-1806766-crop-u4283.jpg" crc="3988764696" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="body-of-water-depth-of-field-ocean-1820041-crop-u4083.jpg" crc="305007754" seo="true" ref="index">
+    <file name="daylight-forest-glossy-443446-crop-u4883.jpg" crc="3840865492" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="clouds-coast-daylight-1806766-crop-u4283.jpg" crc="3975139752" seo="true" ref="index">
+    <file name="michal-kubalczyk-505207-unsplash-crop-u5083.jpg" crc="249721090" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cold-condensation-daylight-942216258x172.jpg" crc="514913909" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="color-environment-moss-1817249258x172.jpg" crc="404512156" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="daylight-forest-glossy-443446-crop-u4883.jpg" crc="464419988" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="michal-kubalczyk-505207-unsplash-crop-u5083.jpg" crc="147456259" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pexels-photo-1427513-crop-u5283.jpg" crc="3873280886" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="atmosphere-bird-s-eye-view-cloudiness-1815398-crop-u3884.jpg" crc="11789380" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="body-of-water-depth-of-field-ocean-1820041-crop-u4084.jpg" crc="3868660071" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="clouds-coast-daylight-1806766-crop-u4284.jpg" crc="3988764696" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="daylight-forest-glossy-443446-crop-u4884.jpg" crc="3840865492" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="michal-kubalczyk-505207-unsplash-crop-u5084.jpg" crc="249721090" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pexels-photo-1427513-crop-u5284.jpg" crc="3837664683" seo="true" ref="index">
+    <file name="pexels-photo-1427513-crop-u5283.jpg" crc="3837664683" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="adventure-altitude-clear-sky-633198-crop-u208.jpg" crc="4039144983" seo="true" ref="index">
@@ -135,5 +105,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4050467818" seo="true" mt="1551896253915" redirect="true"/>
+  <file name="index.html" crc="3927279958" seo="true" mt="1551898806608" redirect="true"/>
 </manifest>
