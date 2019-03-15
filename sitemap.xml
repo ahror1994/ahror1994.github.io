@@ -61,7 +61,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://zaloto.ru/%D1%81%D0%BA%D1%83%D0%BF%D0%BA%D0%B0-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE.html</loc>
+    <loc>http://zaloto.ru/skupka-zoloto.html</loc>
     <lastmod>2019-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -103,15 +103,12 @@
     </image:image>
   </url>
   <url>
-    <loc>http://zaloto.ru/%D1%81%D0%BA%D1%83%D0%BF%D0%BA%D0%B0-%D1%81%D0%B5%D1%80%D0%B5%D0%B1%D1%80%D0%B0.html</loc>
+    <loc>http://zaloto.ru/skupka-serebro.html</loc>
     <lastmod>2019-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://zaloto.ru/images/image%2033.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://zaloto.ru/images/image%2039.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://zaloto.ru/images/image%2065.png</image:loc>
@@ -127,6 +124,9 @@
     </image:image>
     <image:image>
       <image:loc>http://zaloto.ru/images/group%2073.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://zaloto.ru/images/image%20392.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://zaloto.ru/images/ellipse%2025.png</image:loc>
@@ -163,13 +163,13 @@
     </image:image>
   </url>
   <url>
-    <loc>http://zaloto.ru/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B.html</loc>
+    <loc>http://zaloto.ru/contact.html</loc>
     <lastmod>2019-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zaloto.ru/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8.html</loc>
+    <loc>http://zaloto.ru/news.html</loc>
     <lastmod>2019-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
