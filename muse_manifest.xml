@@ -1,0 +1,231 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zaloto.ru" resolutions="1x" timestamp="1552664730877">
+  <folder name="fonts">
+    <file name="aabebasneue.woff" crc="4009653472"/>
+    <file name="9080.eot" crc="184635593"/>
+    <file name="aabebasneue.svg" crc="252025853"/>
+    <file name="akzidenzgroteskpro-lightcn.woff" crc="4033839922"/>
+    <file name="11920.eot" crc="3858224175"/>
+    <file name="akzidenzgroteskpro-lightcn.svg" crc="386930997"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="403587333" ref="index"/>
+    <file name="______-______.css" crc="4084668059" ref="скупка-золото"/>
+    <file name="______-_______.css" crc="4067142425" ref="скупка-серебра"/>
+    <file name="_______.css" crc="4140172814" ref="новости"/>
+    <file name="________.css" crc="4140172814" ref="контакты"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:скупка-золото:скупка-серебра:контакты:новости"/>
+    <file name="museutils.js" crc="340535759" ref="index:скупка-золото:скупка-серебра:контакты:новости"/>
+    <file name="whatinput.js" crc="86476730" ref="index:скупка-золото:скупка-серебра:контакты:новости"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:скупка-золото:скупка-серебра:контакты:новости"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:скупка-золото:скупка-серебра"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:скупка-золото:скупка-серебра:контакты:новости"/>
+    <file name="require.js" crc="7928878" ref="index:скупка-золото:скупка-серебра:контакты:новости"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:скупка-золото:скупка-серебра"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:скупка-золото:скупка-серебра:контакты:новости"/>
+  </folder>
+  <folder name="images">
+    <file name="group 3.png" crc="177627726" ref="index:скупка-золото:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="image 33.png" crc="399638241" seo="true" ref="index:скупка-золото:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="image 36.png" crc="18106552" ref="index:скупка-золото">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+    </file>
+    <file name="image 39.png" crc="271129877" seo="true" ref="index:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="rectangle 18.png" crc="240463385" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rectangle 9.png" crc="459202967" ref="index:скупка-золото:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="image 34.png" crc="4134678559" ref="index:скупка-золото:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="line 4.png" crc="4218594243" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image 35.png" crc="3887898354" ref="index:скупка-золото:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="group 46.png" crc="89641936" ref="index:скупка-золото:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="group 45.png" crc="406556323" ref="index:скупка-золото:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="image 75.png" crc="4224983648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image 76.png" crc="4279782031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rectangle 17.png" crc="4244647497" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 31.png" crc="309992144" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 64.png" crc="3781315226" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 65.png" crc="3858335895" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 66.png" crc="4284358580" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 16.png" crc="4089294309" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image 77-crop-u846.png" crc="77521472" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="118315-crop-u916.jpg" crc="146429043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="group 70.jpg" crc="298803662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 67.png" crc="179287281" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 71.png" crc="242774667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 69.jpg" crc="335768329" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 68.png" crc="4293259421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 72.png" crc="334961173" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image 65.png" crc="62822513" seo="true" ref="index:скупка-золото:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="image 63.png" crc="330593860" seo="true" ref="index:скупка-золото:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="image 64.png" crc="3820055988" seo="true" ref="index:скупка-золото:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:скупка-золото:скупка-серебра">
+      <caption webpage="index" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="mask group 5.png" crc="4289996425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 9.png" crc="515009310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="123.png" crc="301818031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="group 40.png" crc="4050971966" seo="true" ref="скупка-золото">
+      <caption webpage="скупка-золото" alt=""/>
+    </file>
+    <file name="ellipse 18.png" crc="213719776" seo="true" ref="скупка-золото:скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+    </file>
+    <file name="group 73.png" crc="3800759184" seo="true" ref="скупка-золото:скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+    </file>
+    <file name="image 392.png" crc="271129877" seo="true" ref="скупка-золото">
+      <caption webpage="скупка-золото" alt=""/>
+    </file>
+    <file name="group 43.png" crc="305806570" seo="true" ref="скупка-золото">
+      <caption webpage="скупка-золото" alt=""/>
+    </file>
+    <file name="ellipse 25.png" crc="3764156707" seo="true" ref="скупка-золото:скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+      <caption webpage="скупка-серебра" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+      <caption webpage="скупка-золото" alt=""/>
+    </file>
+    <file name="group 74.png" crc="523495058" seo="true" ref="скупка-золото">
+      <caption webpage="скупка-золото" alt=""/>
+    </file>
+    <file name="ellipse 29.png" crc="87461303" seo="true" ref="скупка-золото">
+      <caption webpage="скупка-золото" alt=""/>
+    </file>
+    <file name="2345.png" crc="4178902729" seo="true" ref="скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="image 68.png" crc="4294452209" seo="true" ref="скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="group 53.png" crc="4265058759" seo="true" ref="скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="image 70.jpg" crc="4209204889" seo="true" ref="скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="group 54.png" crc="243536179" seo="true" ref="скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="group 58.png" crc="3767202478" seo="true" ref="скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="group 75.png" crc="226989094" seo="true" ref="скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="group 76.png" crc="449739768" seo="true" ref="скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="group 77.png" crc="4209669509" seo="true" ref="скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+    <file name="group 78.png" crc="309043083" seo="true" ref="скупка-серебра">
+      <caption webpage="скупка-серебра" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="519534652" seo="true" mt="1552661451190" redirect="true"/>
+  <file name="скупка-золото.html" crc="536272187" seo="true" mt="1552661512813" redirect="true"/>
+  <file name="скупка-серебра.html" crc="3822138875" seo="true" mt="1552664698706" redirect="true"/>
+  <file name="контакты.html" crc="3865259528" seo="true" mt="1552660363310" redirect="false"/>
+  <file name="новости.html" crc="4131532433" seo="true" mt="1552660368880" redirect="false"/>
+</manifest>
